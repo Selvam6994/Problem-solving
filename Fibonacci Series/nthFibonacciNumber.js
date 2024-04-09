@@ -15,3 +15,5 @@ const fibonacci = (num) => {
 };
 
 console.log(fibonacci(9));
+
+
