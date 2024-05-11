@@ -17,3 +17,6 @@ const maxMin = (arr) => {
 };
 
 console.log(maxMin([3, 6, 2, 8, 7, 5, 4, 9, 90]));
+
+
+
